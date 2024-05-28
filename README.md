@@ -1,0 +1,1 @@
+This is my first project using java and Swing, featuring a graphical user interface (GUI). The application supports basic arithmetic operations (addition, subtraction, multiplication, division) along with advanced functions such as square root and exponentiation.
